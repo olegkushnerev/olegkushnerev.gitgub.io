@@ -1,2 +1,2 @@
-# olegkushnerev.gitgub.io
+# Олег Кушнерёв
 Мой первый сайт
